@@ -4,12 +4,8 @@ import Carousel from "./Pages/Carousel/Carousel";
 function App() {
   return (
     <div>
-      <div>
-        <NavBar />
-      </div>
-      <div>
-        <Carousel />
-      </div>
+      <NavBar />
+      <Carousel />
     </div>
   );
 }
