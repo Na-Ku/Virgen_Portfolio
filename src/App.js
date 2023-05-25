@@ -1,10 +1,15 @@
 import NavBar from "./Components/NavBar";
-
+import Carousel from "./Pages/Carousel/Carousel";
 
 function App() {
   return (
     <div>
-      <NavBar/>
+      <div>
+        <NavBar />
+      </div>
+      <div>
+        <Carousel />
+      </div>
     </div>
   );
 }
