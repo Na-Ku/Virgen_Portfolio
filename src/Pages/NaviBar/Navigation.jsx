@@ -3,7 +3,7 @@ import React from "react";
 const Navigation = () => {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg bg-primary shadow">
+      <nav className="navbar navbar-expand-lg bg-primary shadow mb-2 justify-content-center">
         <div className="container-fluid">
           <a className="navbar-brand" href="#satu">
             Warung Online
