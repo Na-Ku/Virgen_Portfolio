@@ -4,12 +4,14 @@ import CarouselComponent from "./Pages/CarouselBanner/CarouselComponent";
 
 function App() {
   return (
-    <div className="App bg-warning">
+    <div className="App">
       <header>
         <NavBar />
       </header>
       <main>
-        <CarouselComponent />
+        <div className="bg-warning bg-opacity-50">
+          <CarouselComponent />
+        </div>
       </main>
     </div>
   );
