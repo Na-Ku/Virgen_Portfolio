@@ -3,7 +3,7 @@ import React from "react";
 
 const CategoriesOne = () => {
   return (
-    <div className="row">
+    <div className="row ">
       <div className="col-sm-3 mb-4 mb-sm-0 h-30">
         <div className="card">
           <div className="card-body">

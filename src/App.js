@@ -9,7 +9,7 @@ function App() {
       <header>
         <NavBar />
       </header>
-      <main>
+      <main style={{ height: "1000px" }}>
         <div className="bg-warning bg-opacity-50">
           <CarouselComponent />
         </div>
