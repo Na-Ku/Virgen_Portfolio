@@ -1,6 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import NavBar from "./Components/NavBar";
 import CarouselComponent from "./Pages/CarouselBanner/CarouselComponent";
+import AllCategories from "./Pages/Category/AllCategories";
 
 function App() {
   return (
@@ -12,6 +13,9 @@ function App() {
         <div className="bg-warning bg-opacity-50">
           <CarouselComponent />
         </div>
+        <span>
+          <AllCategories />
+        </span>
       </main>
     </div>
   );
