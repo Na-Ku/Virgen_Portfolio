@@ -3,6 +3,7 @@ import NavBar from "./Components/NavBar";
 import CarouselComponent from "./Pages/CarouselBanner/CarouselComponent";
 import AllCategories from "./Pages/Category/AllCategories";
 import Promo from "./Pages/Diskon/Promo";
+import FrontProduct from "./Pages/Products/FrontProduct";
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
         </span>
         <span>
           <Promo />
+        </span>
+        <span>
+          <FrontProduct />
         </span>
       </main>
     </div>
