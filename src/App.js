@@ -4,6 +4,7 @@ import CarouselComponent from "./Pages/CarouselBanner/CarouselComponent";
 import AllCategories from "./Pages/Category/AllCategories";
 import Promo from "./Pages/Diskon/Promo";
 import FrontProduct from "./Pages/Products/FrontProduct";
+import About from "./Pages/Footer/About";
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
         <span>
           <FrontProduct />
         </span>
+        <footer>
+          <About />
+        </footer>
       </main>
     </div>
   );
