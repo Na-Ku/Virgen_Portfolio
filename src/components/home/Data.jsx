@@ -28,7 +28,7 @@ const Data = () => {
         </svg>
       </h1>
 
-      <h3 className="home__subtitle">Junior Front End Web Programer</h3>
+      <h3 className="home__subtitle">Junior FrontEnd Web Developer</h3>
 
       <p className="home__description">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum ea voluptates, corporis saepe, magnam nobis hic harum vero debitis dignissimos quod blanditiis expedita perferendis ipsum modi suscipit voluptatibus deserunt placeat.
