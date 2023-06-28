@@ -1,5 +1,6 @@
 .home__container {
   row-gap: 7rem;
+  margin-top: -70px;
 }
 
 .home__content {
@@ -97,11 +98,12 @@
   }
 }
 
-.home__scorll-name {
+.home__scroll-name {
   color: var(--title-color);
   font-weight: var(--font-medium);
   margin-right: var(--mb-0-25);
   margin-left: 2px;
+  /* text-decoration: none; */
 }
 
 .home__scroll-arrow {

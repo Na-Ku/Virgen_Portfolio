@@ -1,16 +1,3 @@
-/* body { */
-/* margin: 0; */
-/* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', */
-/* 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', */
-/* sans-serif; */
-/* -webkit-font-smoothing: antialiased; */
-/* -moz-osx-font-smoothing: grayscale; */
-/* } */
-
-/* code { */
-/* font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace; */
-/* } */
-
 /* font */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
@@ -115,6 +102,10 @@ a {
   text-decoration: none;
 }
 
+span {
+  text-decoration: none;
+}
+
 button {
   cursor: pointer;
   border: none;
@@ -145,6 +136,10 @@ img {
 .section__title,
 .section__subtitle {
   text-align: center;
+}
+
+span {
+  text-decoration: none;
 }
 
 /*=== layout ===*/
