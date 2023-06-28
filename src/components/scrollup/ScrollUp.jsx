@@ -9,7 +9,7 @@ const ScrollUp = () => {
   });
 
   return (
-    <a href="#.." className="up">
+    <a href="#home" className="up">
       <i className="uil uil-arrow-up up-icon"></i>
     </a>
   );
