@@ -27,13 +27,13 @@ const Footer = () => {
 
         <div className="footer__social">
           <a href="https://instagram.com/" className="home__social-icon">
-            <i class="uil uil-instagram-alt"></i>
+            <i className="uil uil-instagram-alt"></i>
           </a>
           <a href="https://dribble.com/" className="home__social-icon">
-            <i class="uil uil-dribbble"></i>
+            <i className="uil uil-dribbble"></i>
           </a>
           <a href="https://github.com/" className="home__social-icon">
-            <i class="uil uil-github"></i>
+            <i className="uil uil-github"></i>
           </a>
         </div>
       </div>
