@@ -18,7 +18,7 @@ const About = () => {
 
           <p className="about__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit quidem aliquid alias ex sequi eius.</p>
 
-          <a download="" href={CV} className="button butto-flex">
+          <a download="" href={CV} className="button button-flex">
             Download CV
             <svg className="button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
               <path
