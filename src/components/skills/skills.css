@@ -19,7 +19,8 @@
 }
 
 .skills__box {
-  display: flex;
+  /* grid-template-columns: repeat(1, 5rem); */
+  display: grid;
   justify-content: center;
   column-gap: 2.5rem;
 }
@@ -55,26 +56,25 @@
 @media screen and (max-width: 992px) {
   .skills__container {
     grid-template-columns: max-content;
-
   }
 }
 
 /* device ukuran sedang */
 @media screen and (max-width: 576px) {
-    .skills__container {
-        grid-template-columns: 1fr;
-    }
-    .skills__content {
-        padding: 1.5rem;
-    }
+  .skills__container {
+    grid-template-columns: 1fr;
+  }
+  .skills__content {
+    padding: 1.5rem;
+  }
 }
 
 /* device ukuran kecil */
 @media screen and (max-width: 350px) {
-    .skills__box {
-        column-gap: 1.25rem;
-    }
-    .skills__name {
-        font-size: var(--small-font-size);
-    }
+  .skills__box {
+    column-gap: 1.25rem;
+  }
+  .skills__name {
+    font-size: var(--small-font-size);
+  }
 }
