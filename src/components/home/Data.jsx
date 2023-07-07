@@ -31,7 +31,8 @@ const Data = () => {
       <h3 className="home__subtitle">Junior FrontEnd Web Developer</h3>
 
       <p className="home__description">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum ea voluptates, corporis saepe, magnam nobis hic harum vero debitis dignissimos quod blanditiis expedita perferendis ipsum modi suscipit voluptatibus deserunt placeat.
+        Halo, saya Virgen. Saya lulusan S1 Ekonomi di tahun 2023. Saya memiliki antusias yang besar terkait teknologi dibidang programing dan memiliki ketertarikan terhadap design. Saya mampu bekerjasama dalam tim dan mampu beradaptasi
+        dengan beragam situasi.
       </p>
 
       <a href="#contact" className="button button-flex">
