@@ -7,7 +7,6 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-
     emailjs.sendForm("service_67ionwq", "template_h837w66", form.current, "6b3muuD425wnWrHxJ");
     e.target.reset();
   };

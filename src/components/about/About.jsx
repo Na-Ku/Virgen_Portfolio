@@ -15,8 +15,9 @@ const About = () => {
 
         <div className="about__data">
           <Info />
-
-          <p className="about__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit quidem aliquid alias ex sequi eius.</p>
+          <h3 className="about__description__title">Divisi Humas,</h3>
+          <h4 className="about__description__subtitle">Himpunan Mahasiswa Forum Teruna Ekonomika</h4>
+          <p className="about__description">Memaintain dan mengembangkan website HM FORTE dari program studi berbasis wordpress.</p>
 
           <a download="" href={CV} className="button button-flex">
             Download CV
