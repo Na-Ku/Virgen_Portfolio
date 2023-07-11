@@ -26,7 +26,7 @@ const Footer = () => {
         </ul>
 
         <div className="footer__social">
-          <a href="https://instagram.com/" className="home__social-icon">
+          <a href="https://t.me/virgen_w/" className="home__social-icon">
             <i className="uil uil-telegram"></i>
           </a>
           <a href="https://stackoverflow.com/users/19792593/na-ku" className="home__social-icon">
