@@ -16,7 +16,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <h3 className="about__description__title">Divisi Humas,</h3>
-          <h4 className="about__description__subtitle">Himpunan Mahasiswa Forum Teruna Ekonomika</h4>
+          <h3 className="about__description__subtitle">Himpunan Mahasiswa Forum Teruna Ekonomika</h3>
           <p className="about__description">Memaintain dan mengembangkan website HM FORTE dari program studi berbasis wordpress.</p>
 
           <a download="" href={CV} className="button button-flex">
