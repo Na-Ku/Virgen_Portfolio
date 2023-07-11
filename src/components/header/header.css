@@ -53,7 +53,7 @@
 /* active link */
 .active-link,
 .nav__link {
-  color: var(--title-color-red);
+  color: var(--title-color-dark);
   text-decoration-line: none;
 }
 
