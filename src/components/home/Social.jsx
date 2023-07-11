@@ -6,8 +6,8 @@ const Social = () => {
       <a href="https://www.instagram.com/virgen_v/?hl=id" className="home__social-icon">
         <i className="uil uil-instagram-alt"></i>
       </a>
-      <a href="https://dribble.com/" className="home__social-icon">
-        <i className="uil uil-dribbble"></i>
+      <a href="https://linkedin.com/in/virgen-suoth-975575281" className="home__social-icon">
+        <i className="uil uil-linkedin"></i>
       </a>
       <a href="https://github.com/" className="home__social-icon">
         <i className="uil uil-github"></i>

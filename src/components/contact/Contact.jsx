@@ -22,7 +22,7 @@ const Contact = () => {
           <h3 className="contact__title">Talk to Me</h3>
 
           <div className="contact__content">
-            <h3 className="contact__title"></h3>
+            {/* <h3 className="contact__title"></h3> */}
             <div className="contact__info">
               <div className="contact__card">
                 <i className="bx bxl-gmail contact__card-icon"></i>
@@ -30,7 +30,7 @@ const Contact = () => {
                 <h3 className="contact__card-title">Email</h3>
                 <span className="contact__card-data">virgensuoth@gmail.com</span>
 
-                <a href="#oke" className="contact__button">
+                <a href="https://virgensuoth@gmail.com" className="contact__button">
                   Write Me
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
@@ -42,7 +42,7 @@ const Contact = () => {
                 <h3 className="contact__card-title">WhatsApp</h3>
                 <span className="contact__card-data">+62813-3XXX-XXXX</span>
 
-                <a href="#oke" className="contact__button">
+                <a href="https://wa.me/+6281335678172" className="contact__button">
                   Write Me
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
@@ -78,8 +78,8 @@ const Contact = () => {
             </div>
 
             <div className="contact__form-div contact__form-area">
-              <label className="contact__form-tag">Project</label>
-              <textarea name="project" cols="30" rows="10" className="contact__form-input" placeholder="Write your project"></textarea>
+              <label className="contact__form-tag">Project/Message</label>
+              <textarea name="project" cols="30" rows="10" className="contact__form-input" placeholder="Write your project/message"></textarea>
             </div>
 
             <button className="button button-flex">

@@ -27,12 +27,12 @@ const Footer = () => {
 
         <div className="footer__social">
           <a href="https://instagram.com/" className="home__social-icon">
-            <i className="uil uil-instagram-alt"></i>
+            <i className="uil uil-telegram"></i>
           </a>
-          <a href="https://dribble.com/" className="home__social-icon">
-            <i className="uil uil-dribbble"></i>
+          <a href="https://stackoverflow.com/users/19792593/na-ku" className="home__social-icon">
+            <i className="bx bxl-stack-overflow"></i>
           </a>
-          <a href="https://github.com/" className="home__social-icon">
+          <a href="https://github.com/Na-Ku/Virgen_Portfolio.github.io" className="home__social-icon">
             <i className="uil uil-github"></i>
           </a>
         </div>
