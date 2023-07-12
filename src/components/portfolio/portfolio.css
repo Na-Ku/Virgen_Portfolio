@@ -1,5 +1,6 @@
 .portfolio__info {
   display: grid;
+  justify-content: center;
   row-gap: 1rem;
   grid-template-columns: 300px;
 }
